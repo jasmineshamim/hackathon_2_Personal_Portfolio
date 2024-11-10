@@ -53,7 +53,7 @@ const HeroSection = () => {
           </h3>
           <p className="mt-2 font-medium font-[Spartan] text-4xl md:text-4xl text-1xl
             ">
-            And I' m a <span className="font-extrabold font-['Merriweather'] text-[#7cdee6] italic"><span ref={typedRef}></span></span>
+            And I' m a <span className="font-extrabold font-['Merriweather'] text-[#7cdee6] italic md:text-4xl text-2xl"><span ref={typedRef}></span></span>
           </p>
           <p className="text-start mt-4 max-w-md font-normal text-lg">
             I'm a Web Developer with extensive experience in both Frontend and Backend development. I specialize in creating and designing dynamic, responsive websites that deliver an exceptional user experience.
