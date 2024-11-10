@@ -48,10 +48,10 @@ const HeroSection = () => {
 
         {/* Main Content */}
         <div className='flex flex-col items-start -mt-44 relative px-7 md:mr-96'>
-          <h3 className="text-5xl mb-4 font-semibold font-[Spartan] h-auto w-auto">
+          <h3 className="md:text-5xl text-4xl mb-4 font-semibold font-[Spartan] h-auto w-auto">
             <span className="text-[#7cdee6]">Hi</span>, I am Jasmine Sheikh
           </h3>
-          <p className="mt-2 font-medium font-[Spartan] text-4xl">
+          <p className="mt-2 font-medium font-[Spartan] text-4xl md:text-4xl text-3xl">
             And I' m a <span className="font-extrabold font-['Merriweather'] text-[#7cdee6] italic"><span ref={typedRef}></span></span>
           </p>
           <p className="text-start mt-4 max-w-md font-normal text-lg">
