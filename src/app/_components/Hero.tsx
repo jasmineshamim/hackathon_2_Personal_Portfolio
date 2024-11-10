@@ -103,12 +103,12 @@ const HeroSection = () => {
       </div>
       
       {/* Button to scroll to Latest Works */}
-      <div className='flex flex-col items-center -mt-52 
-         after:content-[""] after:absolute after:w-[2px] after:h-5 after:bg-[#444] after:left-1/2 after:-translate-x-1/2 after:top-[111px] after:-translate-y-1/2 relative'>
+      <div className='flex flex-col items-center -mt-48
+         after:content-[""] after:absolute after:w-[2px] after:h-5 after:bg-[#444] after:left-1/2 after:-translate-x-1/2 after:top-[114px] after:-translate-y-1/2 relative'>
         <button 
           type='button' 
           onClick={scrollToLatestWorks} // Ensure this triggers scroll
-          className="mt-7 px-6 py-2 rounded font-bold bg-gradient-to-r
+          className="mt-8 px-6 py-2 rounded font-bold bg-gradient-to-r
             from-[#2abecc] to-[#065a60]  hover:from-[#065a60] hover:to-[#2abecc] relative hover:scale-110 ease-in-out duration-100
             group h-9 w-[127px] flex justify-center items-center whitespace-nowrap"
         >
