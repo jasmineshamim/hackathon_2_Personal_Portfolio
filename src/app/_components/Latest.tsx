@@ -23,7 +23,7 @@ const LatestSection = () => {
       link: 'https://clothing-brand-web.vercel.app/', // Different link for each project
     },
     {
-      title: 'Next.js Pixel-Perfect Webpage',
+      title: 'Next.js Responnsive Webpage',
       description:
         'A pixel-perfect, responsive webpage in Next.js, HTML, and Tailwind CSS, precisely matching the Figma design with optimized structure and seamless cross-device experience.',
       imageSrc: '/images/moCup3.png',
