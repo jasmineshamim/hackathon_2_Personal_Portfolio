@@ -23,14 +23,14 @@ const LatestSection = () => {
       link: 'https://clothing-brand-web.vercel.app/', // Different link for each project
     },
     {
-      title: 'Next.js Pixel-Perfect Webpage',
+      title: 'Next.js Pixel-Perfect Web',
       description:
         'A pixel-perfect, responsive webpage in Next.js, HTML, and Tailwind CSS, precisely matching the Figma design with optimized structure and seamless cross-device experience.',
       imageSrc: '/images/moCup3.png',
       link: 'https://figma-assig-01-7pes.vercel.app/', // Different link for each project
     },
     {
-      title: 'Shareable Resume Builder',
+      title: 'Resume Builder',
       description:
         'Create a professional, customizable resume with ease using our Shareable Resume Builder. Input your details, choose a template, and generate a sleek, shareable resume ready for employers.',
       imageSrc: '/images/moCup4.png',
