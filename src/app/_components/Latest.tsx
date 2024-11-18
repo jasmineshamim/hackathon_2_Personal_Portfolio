@@ -41,7 +41,7 @@ const LatestSection = () => {
       description:
         'A static yet visually appealing resume that effectively showcases your skills and achievements in clean and professional layout',
       imageSrc: '/images/moCup5.png',
-      link: 'https://my-hackathon-project-milestone12.vercel.app/', // Different link for each project
+      link: 'https://hackathon-1-updated-resume-builder-uqqk.vercel.app/', // Different link for each project
     },
   ];
 
