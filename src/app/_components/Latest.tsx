@@ -34,7 +34,7 @@ const LatestSection = () => {
       description:
         'Create  professional, customizable resume with ease using our Shareable Resume Builder. Input your details, choose template, and generate sleek, shareable resume ready for employers.',
       imageSrc: '/images/moCup4.png',
-      link: 'https://my-hackathon-project-milestone05.vercel.app/', // Different link for each project
+      link: 'https://mileston5-eight.vercel.app/', // Different link for each project
     },
     {
       title: 'Static Interactive Resume',
