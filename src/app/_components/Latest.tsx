@@ -11,7 +11,7 @@ const LatestSection = () => {
     {
       title: 'Countdown Timer',
       description:
-        'I created a Countdown Timer using Next.js, HTML, and Tailwind CSS, delivering a dynamic and responsive design with accurate countdown functionality and a clean user interface.',
+        'I created Countdown Timer using Next.js, HTML, and Tailwind CSS, delivering dynamic and responsive design with accurate countdown functionality and clean user interface.',
       imageSrc: '/images/moCup.png',
       link: 'https://countdown-timer-theta-indol.vercel.app/', // Different link for each project
     },
@@ -25,21 +25,21 @@ const LatestSection = () => {
     {
       title: 'Next.js Pixel-Perfect Web',
       description:
-        'A pixel-perfect, responsive webpage in Next.js, HTML, and Tailwind CSS, precisely matching the Figma design with optimized structure and seamless cross-device experience.',
+        'A pixel-perfect, responsive webpage in Next.js, HTML, and Tailwindcss, precisely matching the Figma design with optimized structure and seamless cross-device experience.',
       imageSrc: '/images/moCup3.png',
       link: 'https://figma-assig-01-7pes.vercel.app/', // Different link for each project
     },
     {
       title: 'Resume Builder',
       description:
-        'Create a professional, customizable resume with ease using our Shareable Resume Builder. Input your details, choose a template, and generate a sleek, shareable resume ready for employers.',
+        'Create  professional, customizable resume with ease using our Shareable Resume Builder. Input your details, choose template, and generate sleek, shareable resume ready for employers.',
       imageSrc: '/images/moCup4.png',
       link: 'https://my-hackathon-project-milestone05.vercel.app/', // Different link for each project
     },
     {
       title: 'Static Interactive Resume',
       description:
-        'A static yet visually appealing resume that effectively showcases your skills and achievements in a clean and professional layout',
+        'A static yet visually appealing resume that effectively showcases your skills and achievements in clean and professional layout',
       imageSrc: '/images/moCup5.png',
       link: 'https://my-hackathon-project-milestone12.vercel.app/', // Different link for each project
     },
